@@ -11,8 +11,8 @@ Theres quite a few ways to install this, but heres the recommended way
 3) Copy paste contents in and save
 
 
-## Before
+### Before
 <img src="before.PNG"/>
 
-## After 
-<img src="after.PNG""/>
+### After 
+<img src="after.PNG"/>
