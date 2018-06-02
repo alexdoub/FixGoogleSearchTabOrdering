@@ -11,8 +11,8 @@ Theres quite a few ways to install this, but heres the recommended way
 3) Copy paste contents in and save
 
 
-<p align="center">
-  <img src="before.PNG"/>
-  <br>
-  <img src="after.PNG""/>
-</p>
+## Before
+<img src="before.PNG"/>
+
+## After 
+<img src="after.PNG""/>
