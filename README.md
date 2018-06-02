@@ -1,7 +1,7 @@
 # FixGoogleSearchTabOrdering
-Fixes the ordering of your google search tabs instead of having the ordering change depending on yours earch terms
+This script fixes the ordering of your Google search tabs instead of having the ordering change depending on yours earch terms. Feel free to edit the ordering yourself in the script contents (Its not complicated).
 
-This is a simple userscript that should run on any browser.
+Google should fire its dumbass designers for implementing such a shitty inconvenient 'feature'
 
 ## Installation instructions
 
