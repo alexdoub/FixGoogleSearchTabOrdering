@@ -8,5 +8,4 @@ This is a simple userscript that should run on any browser.
 Theres quite a few ways to install this, but heres the recommended way
 1) Install Tampermonkey
 2) Create new script in dashboard
-3) Copy paste contents in
-
+3) Copy paste contents in and save
