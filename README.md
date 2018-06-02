@@ -9,3 +9,9 @@ Theres quite a few ways to install this, but heres the recommended way
 1) Install Tampermonkey
 2) Create new script in dashboard
 3) Copy paste contents in and save
+
+
+<p align="center">
+  <img src="before.PNG" width="350"/>
+  <img src="after.PNG" width="350"/>
+</p>
