@@ -12,6 +12,7 @@ Theres quite a few ways to install this, but heres the recommended way
 
 
 <p align="center">
-  <img src="before.PNG" width="350"/>
-  <img src="after.PNG" width="350"/>
+  <img src="before.PNG"/>
+  <br>
+  <img src="after.PNG""/>
 </p>
