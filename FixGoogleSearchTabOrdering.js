@@ -13,32 +13,25 @@
 {
         var order = ["All", "Web", "Images", "Videos", "News", "Maps", "Books", "Apps", "Shopping", "Flights"];
 
-        function observerEnable()
-        {
+        function enableObserver() {
                 observer.observe(document.querySelector("#main"), { childList: true, subtree: true });
         }
-        function observerDisable()
-        {
+        function disableObserver() {
                 observer.disconnect();
         }
-        var observer = new MutationObserver(function(mutations)
-        {
-                observerDisable();
+        var observer = new MutationObserver(function(mutations) {
+                disableObserver();
                 fixTabs();
-                observerEnable();
+                enableObserver();
         });
-        observerEnable();
+        enableObserver();
 
-        function fixTabs()
-        {
+        function fixTabs() {
                 var parent = document.querySelector("#hdtb-msb-vis");
-                if (parent == null) {
-                        return;
-                }
+                if (parent == null) { return; }
 
                 var all = parent.querySelectorAll(".hdtb-mitem.hdtb-msel.hdtb-imb");
                 var tabs = parent.querySelectorAll(".hdtb-mitem");
-
                 var more = document.querySelector("#hdtb-more");
                 var tools = document.querySelector("#hdtb-tls");
 
