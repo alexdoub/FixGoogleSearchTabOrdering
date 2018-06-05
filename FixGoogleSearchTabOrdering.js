@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Google Fixed Tab Order
+// @name        FixGoogleSearchTabOrdering
 // @namespace   google.com
 // @include     https://www.google.com/search?*
 // @include     https://www.google.com/webhp?*
