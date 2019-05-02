@@ -20,3 +20,4 @@ Alternatively, you can install directly into Chrome by doing this
 
 ### After 
 <img src="after.PNG"/>
+
